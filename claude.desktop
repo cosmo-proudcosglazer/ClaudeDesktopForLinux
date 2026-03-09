@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Claude
+Exec=electron /usr/share/claude-desktop
+Icon=/usr/share/claude-desktop/icon.svg
+Type=Application
+Categories=Network;
